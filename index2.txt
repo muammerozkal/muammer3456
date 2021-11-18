@@ -1,0 +1,4 @@
+merhaba dünya
+Bugün hava soğuk
+console.logal
+nasılsın
